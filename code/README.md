@@ -1,1 +1,0 @@
-# Aspect-Based-Sentimental-Analysis
